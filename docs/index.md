@@ -37,3 +37,4 @@
 
 [简单的股票量化交易框架 使用 easytrader 和 easyquotation](https://github.com/shidenggui/easyquant)
 
+测试
